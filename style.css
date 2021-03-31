@@ -30,4 +30,12 @@ a {
   color: #919191;
   background-color:transparent;
 }
+#maincontent {
+  width: 980px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+.topnav{
+  text-align: center;
+}
 </style>
