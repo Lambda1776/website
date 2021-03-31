@@ -38,4 +38,8 @@ a {
 .topnav{
   text-align: center;
 }
+#lonks h3 {
+  display: inline-block;
+
+}
 </style>
