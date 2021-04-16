@@ -1,0 +1,51 @@
+body {
+  color: white;
+  background: #252525;
+}
+<style>
+a:link {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a {
+  color: #919191;
+  background-color:transparent;
+}
+#maincontent {
+  width: 980px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+.topnav{
+  text-align: center;
+}
+#lonks h3 {
+  display: inline-block;
+
+}
+code {
+  background-color: #222222;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+</style>
