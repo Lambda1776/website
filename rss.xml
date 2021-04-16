@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="" rel="self" type="application/rss+xml" />
+<title>title</title>
+<description>Welcome to my website, now a minimalist version of the horrid soydev "thing" it used to be.</description>
+<link>/</link>
+<lastBuildDate></lastBuildDate>
+
+<item>
+<guid>/</guid>
+<link>/</link>
+<pubDate></pubDate>
+<title></title>
+<description><![CDATA[
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel='stylesheet' type'text/css' href="/style.css">
+  <meta property="og:type" content="website">
+
+  <meta property="og:title" content="Eddster's website" />
+
+  <meta property="og:description" content="Eddster's Page" />
+
+  <meta property="og:url" content="https://eddster.xyz" />
+
+  <meta property="og:image" content="https://eddster.xyz/images/synrise.jpeg" />
+  </head>
+  <body>
+  <div id="maincontent">
+    <div class="topnav">
+      <a class="active" href="/index.html">Home</a>
+      <a href="/news.html">News</a>
+      <a href="/contact.html">Contact</a>
+      <a href="/about.html">About</a>
+      <a href="/writings.html">Writing</a>
+    </div>
+    <h1>Eddster's landing page</h1>
+    <p>Welcome to my website, now a minimalist version of the horrid soydev "thing" it used to be.</p>
+    <p>archived <a href="/index2.html">here</a></p>
+    <img src="images/programmer.gif" style="float:right;width:100px;height:100px;"/>
+    <h2>About me:</h2>
+    <p>I go by Eddy, I enjoy programming, psychology, biology, anime(lmao), 
+    pretty LaTeX formatting, and UNIX systems(macfags btfo)</p>
+    <h3>Soydev info:</h3>
+    <p>I write all my code in nvim, My perfered developing envoirments would be
+    Gentoo Linux, sometimes arch(lol) And ive recently taken a liking to OpenBSD</p>
+    <h4>More info</h4>
+    <p>More specific information can be found on other pages in the website, feel
+    free to click around and explore.</p>
+  </div>
+</body>
+</html>
+
+]]></description>
+</item>
+</channel></rss>
